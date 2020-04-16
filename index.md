@@ -74,18 +74,23 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+*A musical instrument for children based around a lickable interface.*
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+*A row of lollipops mounted in a stand so that a lick of each plays a different note. [The
+lollipops could be used as capacitive touch sensors, each wired to a microbit input.]* 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
-*Put details here.*
+*esign concept 2: A paint-on keyboard/temporary tattoo for your arm that you lick to play notes. [The
+tattoo could be made of some kind of conductive fluid that hardens, or maybe even a coloured sugar syrup
+painted in stripes and the lick essentially bridges two stripes, effectively making them a button.]*
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+*Design concept 3: A set of small water fountains that you have to drink from to activate sequences of notes.
+[Although it looks like you have to actually drink from the water, a set of light sensors or ultrasonic sensors
+detects where your head is and activates tones when it seems your head must be in a position to drink.]*
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
