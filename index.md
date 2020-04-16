@@ -56,11 +56,11 @@ This project is related to mine because *insert reasons here*.
 This project is related to mine because *insert reasons here*.
 
 ### Related project 6 ###
-*SparkFun Mecanum Wheels*
+*Floor Cleaning Machine*
 
-*https://www.youtube.com/watch?v=O7FbDy-gE70*
+*https://www.youtube.com/watch?v=_mMsg4ikuIA*
 
-![Image](relatedproject02.PNG)
+![Image](relatedproject06.PNG)
 
 This project is related to mine because *insert reasons here*.
 
