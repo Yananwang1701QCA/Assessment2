@@ -29,11 +29,11 @@ This project is related to mine because *insert reasons here*.
 This project is related to mine because *insert reasons here*.
 
 ### Related project 3 ###
-*SparkFun Mecanum Wheels*
+*Remote Control Lawn Mower Robot*
 
-*https://www.youtube.com/watch?v=O7FbDy-gE70*
+*https://www.youtube.com/watch?v=Lb17YiUi43A*
 
-![Image](relatedproject02.PNG)
+![Image](relatedproject03.PNG)
 
 This project is related to mine because *insert reasons here*.
 
