@@ -53,7 +53,7 @@ This project is related to mine because *as a housewife, I hope my robot can hel
 
 ![Image](relatedproject05.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because *this homemade vacuum cleaner is very interesting. This gives my project more inspiration, and I can consider setting more functions for the robot.*.
 
 ### Related project 6 ###
 *Floor Cleaning Machine*
