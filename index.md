@@ -26,7 +26,7 @@ This project is related to mine because *I think the wheels in this project can 
 
 ![Image](relatedproject02.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because *I did more research on wheels that can rotate 360 degrees to see if they can be used in my project.*.
 
 ### Related project 3 ###
 *Remote Control Lawn Mower Robot*
