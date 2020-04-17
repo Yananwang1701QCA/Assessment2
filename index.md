@@ -71,6 +71,7 @@ This project is related to mine because *the difference with the fourth project 
 
 ![Image](relatedproject07.PNG)
 *https://www.youtube.com/watch?v=B92vy_2ewfg
+
 In this project, the rotating mop at the front of the robot and the foam roller at the rear can complete the work well. There is also a water pump and water reservoir that can be opened when needed to sprinkle water on the floor and moisten the mop for proper cleaning. The foam roller is movable, which means that you can lift the foam roller when not in use. In addition, speed control is added to the drive motor in this robot. This project is still a bit complicated for me, but I am more clear about how my robot should be done.*
 
 ## Conceptual progress ##
