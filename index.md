@@ -17,7 +17,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 ![Image](relatedproject01.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because *I think the wheels in this project can increase the fun of the robots in my project.*.
 
 ### Related project 2 ###
 *SparkFun Mecanum Wheels*
