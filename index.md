@@ -35,7 +35,7 @@ This project is related to mine because *I did more research on wheels that can 
 
 ![Image](relatedproject03.PNG)
 
-This project is related to mine because *This is an interesting feature.*.
+This project is related to mine because *this is an interesting feature.*.
 
 ### Related project 4 ###
 *An Automatic Floor Cleaning Robot*
@@ -44,7 +44,7 @@ This project is related to mine because *This is an interesting feature.*.
 
 ![Image](relatedproject04.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because *as a housewife, I hope my robot can help me do more. This simple mopping robot provides me with a good direction.*.
 
 ### Related project 5 ###
 *Vacuuming Robot*
