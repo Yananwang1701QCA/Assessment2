@@ -35,7 +35,7 @@ This project is related to mine because *I did more research on wheels that can 
 
 ![Image](relatedproject03.PNG)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because *This is an interesting feature.*.
 
 ### Related project 4 ###
 *An Automatic Floor Cleaning Robot*
