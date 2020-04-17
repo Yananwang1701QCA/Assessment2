@@ -67,9 +67,11 @@ This project is related to mine because *the difference with the fourth project 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
-### *Brief resource name/description* ###
+### *CleanSweep: The Floor Cleaning Robot* ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+![Image](relatedproject07.PNG)
+*https://www.youtube.com/watch?v=B92vy_2ewfg
+In this project, the rotating mop at the front of the robot and the foam roller at the rear can complete the work well. There is also a water pump and water reservoir that can be opened when needed to sprinkle water on the floor and moisten the mop for proper cleaning. The foam roller is movable, which means that you can lift the foam roller when not in use. In addition, speed control is added to the drive motor in this robot. This project is still a bit complicated for me, but I am more clear about how my robot should be done.*
 
 ## Conceptual progress ##
 
