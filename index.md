@@ -77,14 +77,12 @@ This project is related to mine because *the difference with the fourth project 
 *A floor cleaning robot with Mecanum Wheels*
 
 ### Design concept 1 ###
-*A board with a rag is installed in front of the robot. When the robot is moved by remote control, the rag will start to work and wipe the floor.* 
+*Design concept 1:A board with a rag is installed in front of the robot. When the robot is moved by remote control, the rag will start to work and wipe the floor.* 
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+
 
 ### Design concept 2 ###
-*esign concept 2: A paint-on keyboard/temporary tattoo for your arm that you lick to play notes. [The
-tattoo could be made of some kind of conductive fluid that hardens, or maybe even a coloured sugar syrup
-painted in stripes and the lick essentially bridges two stripes, effectively making them a button.]*
+*Design concept 2: When the robot is equipped with Mecanum Wheels, it can rotate 360, not just forward or backward.*
 
 ### Final design concept ###
 *Design concept 3: A set of small water fountains that you have to drink from to activate sequences of notes.
