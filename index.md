@@ -74,11 +74,10 @@ This project is related to mine because *the difference with the fourth project 
 ## Conceptual progress ##
 
 ### Design intent ###
-*A musical instrument for children based around a lickable interface.*
+*A floor cleaning robot with Mecanum Wheels*
 
 ### Design concept 1 ###
-*A row of lollipops mounted in a stand so that a lick of each plays a different note. [The
-lollipops could be used as capacitive touch sensors, each wired to a microbit input.]* 
+*A board with a rag is installed in front of the robot. When the robot is moved by remote control, the rag will start to work and wipe the floor.* 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
