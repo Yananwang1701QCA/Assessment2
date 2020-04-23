@@ -105,6 +105,7 @@ Ensure you include comments about the choices you've made along the way.*
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
 Draft
+![Image](draft.PNG)
 
 Code Screenshots
 ![Image](code1.PNG)
