@@ -88,7 +88,8 @@ In this project, the rotating mop at the front of the robot and the foam roller 
 *Design concept 2: When the robot is equipped with Mecanum Wheels, it can rotate 360, not just forward or backward.*
 
 ### Final design concept ###
-*can install a dry rag or a foam shaft that can be rolled behind the robot to wipe off the water stains on the ground.*
+*I can install a wet rag on the front and a dry rag on the back for easier cleaning.
+The bolder idea is to transform the rag into a rotatable one. I do n’t know if it can be achieved later.*
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
