@@ -117,6 +117,17 @@ Code Screenshots
 
 
 
+
+Development
+
+![Image](development.PNG.PNG)
+![Image](development1.PNG.PNG)
+![Image](development2.PNG.PNG)
+![Image](development3.PNG.PNG)
+![Image](development4.PNG.PNG)
+![Image](development5.PNG.PNG)
+
+
 Youtube Video
 
 ## Design process discussion ##
