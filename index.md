@@ -120,12 +120,12 @@ Code Screenshots
 
 Development
 
-![Image](development.PNG.PNG)
-![Image](development1.PNG.PNG)
-![Image](development2.PNG.PNG)
-![Image](development3.PNG.PNG)
-![Image](development4.PNG.PNG)
-![Image](development5.PNG.PNG)
+![Image](development.PNG)
+![Image](development1.PNG)
+![Image](development2.PNG)
+![Image](development3.PNG)
+![Image](development4.PNG)
+![Image](development5.PNG)
 
 
 Youtube Video
