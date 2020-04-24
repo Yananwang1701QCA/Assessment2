@@ -131,6 +131,9 @@ Development
 
 Youtube Video
 
+![Image](video.PNG)
+https://www.youtube.com/watch?v=mmxhnRp_tpU
+
 ## Design process discussion ##
 *This is really difficult for a newcomer, but in the end I was able to make something, which really surprised me. In fact, these are just very difficult for me. It sounds crazy to be a remote control mopping robot. In this operation, I mainly used Mecanum Wheels and added a dry function to make a robot. The main problems are how to remote control, how the wiper works and how to use the Neopixel function when programming.*
 
