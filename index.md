@@ -132,7 +132,7 @@ Development
 Youtube Video
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+*This is really difficult for a newcomer, but in the end I was able to make something, which really surprised me. In fact, these are just very difficult for me. It sounds crazy to be a remote control mopping robot. In this operation, I mainly used Mecanum Wheels and added a dry function to make a robot. The main problems are how to remote control, how the wiper works and how to use the Neopixel function when programming.*
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
